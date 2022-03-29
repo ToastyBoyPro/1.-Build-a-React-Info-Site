@@ -5,3 +5,10 @@
 
 * React Notes
 * React Info Site
+
+*Disclaimer: nodes_modules folder not included*
+
+To add *nodes_modules* folder
+1. Run *npm install node-modules* for the full *node_modules* folder  
+   OR
+2. Install only the required dependencies with *npm install **packagename*** 
